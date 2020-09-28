@@ -1,6 +1,12 @@
 # Wawancara bersama Kak Aldi Baihaqi
 ## Narasumber kami bernama Aldi Baihaqi , beliau merupakan UI/UX Designer di Tunaiku
 
+## Working Experience
+### Nusatek (UI Designer) : 2018-2019
+### Riliv  (UI/UX Designer) :2018 -2019
+### Tokopedia (UI Designer - PDA ) :2019- 2020 
+### Tunaiku (UI/UX Designer) : 2020 - present 
+
 Pewawancara :  P
 Narasumber:  N
 
