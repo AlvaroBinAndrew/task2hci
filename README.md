@@ -1,10 +1,11 @@
 # Wawancara bersama Kak Aldi Baihaqi
 ## Narasumber kami bernama Aldi Baihaqi , beliau merupakan UI/UX Designer di Tunaiku
 
-Pewawancara : P
+Pewawancara :  P
 Narasumber:  N
 
 P: Silahkan perkenalan diri dulu kak
+
 N: Baik perkenalkan nama ku Aldi Baihaqi (Aldi), bekerja di TunaiKu salah satu yang bergerak dibidang IMTEK sebagai UI/UX designer. Kapan mulai dunia UI/UX itu ketika kuliah. Ketika semester 2/3, ada salah satu kompetisi nasional (KEMASTIK). Di kemastik ada banyak kategori perlombaan, karena kebetulan saya dari jurusan sistem informasi akhirnya tertarik untuk ikut kemastik terus kemudian ikut dikategori. Karena waktu itu masih semester 2 jadi saya belum memahami secara mendalam. Jadi riset dulu sangat terbatas, akhirnya saya cari di google, kira-kira materi UI/UX. Tapi untungnya karena topik yang saya ambil menarik, dan akhirnya saya lolos ke final 10 besar. Ketika final itu diselenggarakan di UI, setelah final itu saya mulai tertarik lagi di explore lebih dalam menarik, akhirnya dari situ saya kayak coba-coba belajar secara otodidak, nyari-nyari riset yg ada di internet. Kira-kira mengenai proses desain UX tuh kayak gimana. Habis itu ditahun 2019, saya coba ikut kemastik lagi dan alhamdulillah dapet juara 1 sama teman-teman dari jurusan yang sama. Terus akhir 2019 saya sempat ikut partime juga disalah satu startup di Surabaya, kebetulan saya dari ITS. Jadi magang dan partime di salah satu startup yang ada di Surabaya. Nama startupnya yaitu relief, startup yang bergerak di bidang kesehatan mental. Dulu dari situ, yang tadinya awal-awal ikut lomba, yang mulai tertarik-tertarik yaudah sampai sekarang profesinya jadi UI/UX Designer. Dan kebetulan pas akhir pertama kali lulus 2019 kemarin, dari tokopedia nyelenggarain program untuk.(3.32) UX designer. Nama programnya product designer academy. Karena saya juga tertarik coba untuk apply kesana alhamdulillah keterima juga, kalau tidak salah programnya udah kelar dibulan juni kemarin, setelah ikut program itu saya baru pindah kekantorku yang sekarang.
 
 P	: saya tertarik, misalnya gini. Biasanya kita mau mempelajari sesuatu pasti kita terinfluence sama orang yang duluan terjun ke dunia UX. Nah kakak terinfluence oleh siapa si ka?
